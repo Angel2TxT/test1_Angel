@@ -10,6 +10,6 @@
     <h1>
         Bienvenido a la pagina de Angel
     </h1>
-
+    <button"><a href="/acerca_de.php">acerca de</a></button>
 </body>
 </html>

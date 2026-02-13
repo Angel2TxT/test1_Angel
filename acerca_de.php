@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Nombre: Angel</h1>
+    <h2>Edad: 21</h2>
 </body>
 </html>
